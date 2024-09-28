@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/farmers-website/static/css/main.7326d10c.css",
-    "main.js": "/farmers-website/static/js/main.b2e8fd96.js",
+    "main.css": "/farmers-website/static/css/main.a145fdc5.css",
+    "main.js": "/farmers-website/static/js/main.00938119.js",
     "static/js/488.b8b3ffeb.chunk.js": "/farmers-website/static/js/488.b8b3ffeb.chunk.js",
     "static/media/harvesting1.jpg": "/farmers-website/static/media/harvesting1.76f8a932d54091041c6a.jpg",
     "static/media/homepic.jpg": "/farmers-website/static/media/homepic.fc359ba52874a1497762.jpg",
+    "static/media/founderImage.jpg": "/farmers-website/static/media/founderImage.ae2cf7975475929b46ee.jpg",
+    "static/media/img5.jpg": "/farmers-website/static/media/img5.b73339cfc03e097c5f94.jpg",
+    "static/media/img1.jpg": "/farmers-website/static/media/img1.ce66ca1bf65a6fe14bed.jpg",
+    "static/media/img3.jpg": "/farmers-website/static/media/img3.082989899cccfcaeaadb.jpg",
+    "static/media/img2.jpg": "/farmers-website/static/media/img2.04b17075afc7953bba9c.jpg",
     "static/media/harvesting.jpg": "/farmers-website/static/media/harvesting.006a1ad627b9a1925b5f.jpg",
     "static/media/background.jpg": "/farmers-website/static/media/background.ed0b11459db3e5df2622.jpg",
+    "static/media/img4.jpg": "/farmers-website/static/media/img4.04d50962f411c5ed0c4b.jpg",
     "index.html": "/farmers-website/index.html",
-    "main.7326d10c.css.map": "/farmers-website/static/css/main.7326d10c.css.map",
-    "main.b2e8fd96.js.map": "/farmers-website/static/js/main.b2e8fd96.js.map",
+    "main.a145fdc5.css.map": "/farmers-website/static/css/main.a145fdc5.css.map",
+    "main.00938119.js.map": "/farmers-website/static/js/main.00938119.js.map",
     "488.b8b3ffeb.chunk.js.map": "/farmers-website/static/js/488.b8b3ffeb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7326d10c.css",
-    "static/js/main.b2e8fd96.js"
+    "static/css/main.a145fdc5.css",
+    "static/js/main.00938119.js"
   ]
 }
