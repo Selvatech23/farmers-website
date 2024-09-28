@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/farmers-website/static/css/main.e6c13ad2.css",
-    "main.js": "/farmers-website/static/js/main.b24d54fc.js",
+    "main.js": "/farmers-website/static/js/main.5dadb197.js",
     "static/js/488.b8b3ffeb.chunk.js": "/farmers-website/static/js/488.b8b3ffeb.chunk.js",
-    "static/media/homepic.jpg": "/farmers-website/static/media/homepic.fc359ba52874a1497762.jpg",
+    "static/media/harvesting1.jpg": "/farmers-website/static/media/harvesting1.76f8a932d54091041c6a.jpg",
     "index.html": "/farmers-website/index.html",
     "main.e6c13ad2.css.map": "/farmers-website/static/css/main.e6c13ad2.css.map",
-    "main.b24d54fc.js.map": "/farmers-website/static/js/main.b24d54fc.js.map",
+    "main.5dadb197.js.map": "/farmers-website/static/js/main.5dadb197.js.map",
     "488.b8b3ffeb.chunk.js.map": "/farmers-website/static/js/488.b8b3ffeb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b24d54fc.js"
+    "static/js/main.5dadb197.js"
   ]
 }
