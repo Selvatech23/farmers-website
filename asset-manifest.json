@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/farmers-website/static/css/main.a145fdc5.css",
-    "main.js": "/farmers-website/static/js/main.00938119.js",
+    "main.css": "/farmers-website/static/css/main.479d44b0.css",
+    "main.js": "/farmers-website/static/js/main.44e3232a.js",
     "static/js/488.b8b3ffeb.chunk.js": "/farmers-website/static/js/488.b8b3ffeb.chunk.js",
     "static/media/harvesting1.jpg": "/farmers-website/static/media/harvesting1.76f8a932d54091041c6a.jpg",
     "static/media/homepic.jpg": "/farmers-website/static/media/homepic.fc359ba52874a1497762.jpg",
@@ -14,12 +14,12 @@
     "static/media/background.jpg": "/farmers-website/static/media/background.ed0b11459db3e5df2622.jpg",
     "static/media/img4.jpg": "/farmers-website/static/media/img4.04d50962f411c5ed0c4b.jpg",
     "index.html": "/farmers-website/index.html",
-    "main.a145fdc5.css.map": "/farmers-website/static/css/main.a145fdc5.css.map",
-    "main.00938119.js.map": "/farmers-website/static/js/main.00938119.js.map",
+    "main.479d44b0.css.map": "/farmers-website/static/css/main.479d44b0.css.map",
+    "main.44e3232a.js.map": "/farmers-website/static/js/main.44e3232a.js.map",
     "488.b8b3ffeb.chunk.js.map": "/farmers-website/static/js/488.b8b3ffeb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a145fdc5.css",
-    "static/js/main.00938119.js"
+    "static/css/main.479d44b0.css",
+    "static/js/main.44e3232a.js"
   ]
 }
